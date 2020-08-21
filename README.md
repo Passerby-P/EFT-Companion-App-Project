@@ -1,2 +1,2 @@
 # EFT-Companion-App-Project
-My Trial to become a programmer.
+My trial to become a programmer.
